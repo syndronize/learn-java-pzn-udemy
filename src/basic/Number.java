@@ -1,6 +1,7 @@
-public class Number {
-    public static void main(DataString[] args) {
+package basic;
 
+public class Number {
+    public static void main(String[] args) {
         byte testByte = 100;
         short testShort = 1000;
         int testInt = 10000;
@@ -10,16 +11,16 @@ public class Number {
         float testFloat = 10.50F;
         double testDouble = 10.921;
 
-        //Literals Number
+        //Literals basic.Number
         int decimalInt = 25;
-        int hexInt = 0xA132B; // Hexa Number
-        int binInt =0b01010101; // Binary Number
+        int hexInt = 0xA132B; // Hexa basic.Number
+        int binInt =0b01010101; // Binary basic.Number
 
         //Underscore
         int amount = 1_000_000_000;
         long test = 1_000_000_000_000_000L;
 
-        //Konversi Number
+        //Konversi basic.Number
 
         // byte -> double
         byte convByte = 10;
@@ -35,6 +36,6 @@ public class Number {
         int revInt = (int)revLong;
         short revShort = (short) revInt;
         byte revByte = (byte) revShort;
-
+        System.out.println(revShort);
     }
 }

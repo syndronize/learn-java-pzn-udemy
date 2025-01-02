@@ -1,3 +1,5 @@
+package basic;
+
 public class DataString {
 
     public static void main(String[] args) {

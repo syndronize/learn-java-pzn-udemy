@@ -1,3 +1,5 @@
+package basic;
+
 public class Perbandingan {
     public static void main(String[] args) {
         // output true or false

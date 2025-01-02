@@ -1,6 +1,7 @@
-public class Boolean {
-    public static void main(DataString[] args) {
+package basic;
 
+public class Boolean {
+    public static void main(String[] args) {
         boolean test1 = true;
         boolean test2 = false;
 

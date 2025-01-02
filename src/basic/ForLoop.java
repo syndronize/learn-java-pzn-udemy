@@ -1,3 +1,5 @@
+package basic;
+
 public class ForLoop {
     public static void main(String[] args) {
         //unlimited loop

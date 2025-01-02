@@ -1,3 +1,5 @@
+package basic;
+
 public class SwitchState {
     public static void main(String[] args) {
         // switch hanya untuk perbandingan ==

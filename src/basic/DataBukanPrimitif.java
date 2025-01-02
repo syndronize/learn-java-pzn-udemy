@@ -1,3 +1,5 @@
+package basic;
+
 public class DataBukanPrimitif {
     public static void main(String[] args) {
         Integer testInteger = 100;

@@ -1,3 +1,5 @@
+package basic;
+
 import java.util.Arrays;
 public class Array {
     public static void main(String[] args) {
@@ -24,10 +26,10 @@ public class Array {
         System.out.println(arrayLong[3]);
         arrayLong[3] = 94;
 
-        //Array in Array
+        //basic.Array in basic.Array
         String[][] nameMembers = {
-                {"Array 00","Array 01","Array 02"},
-                {"Array 10","Array11"},
+                {"basic.Array 00","basic.Array 01","basic.Array 02"},
+                {"basic.Array 10","Array11"},
                 {"Array20"}
         };
         System.out.println(nameMembers[0][1]);

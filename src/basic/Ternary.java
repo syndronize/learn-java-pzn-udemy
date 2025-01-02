@@ -1,3 +1,5 @@
+package basic;
+
 public class Ternary {
     public static void main(String[] args) {
         var ternary = "x";

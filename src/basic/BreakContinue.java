@@ -1,3 +1,5 @@
+package basic;
+
 public class BreakContinue {
     public static void main(String[] args) {
         for (var i = 1; i<= 100; i++){

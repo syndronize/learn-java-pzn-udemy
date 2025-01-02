@@ -1,3 +1,5 @@
+package basic;
+
 public class BooleanOperate {
     public static void main(String[] args) {
         // && = dan,  || = atau, ! = kebalikan
